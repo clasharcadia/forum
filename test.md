@@ -1,41 +1,46 @@
-
-
-![Dragon](https://raw.githubusercontent.com/clasharcadia/forum/main/img/Dragon.png)
 # RC Super Charge et SPAM Dragons !
 
-![troupes](img/compo.png)
+![Dragon](https://raw.githubusercontent.com/clasharcadia/forum/main/img/Dragon.png)
+
+![Armée](img/compo.png)
+
 Voici un petit guide sur une composition pour HDV 13, 14, et 15. La composition tourne autour de 4 points importants : la Championne Charge, le funnel de la caserne, la gestion de la flèche géante de la Reine, et enfin la partie dragon.
 
 Nous aborderons les équipements des héros, l'objectif de chaque partie, etc. Je me base plus sur de l’HDV 14, mais globalement essayez d’avoir vos héros le plus haut possible. La flèche géante de la Reine, la championne et ses équipements sont les 2 points les plus importants à avoir de bon niveau.
 
 Le Super Dragon du château de clan peut être modifié mais je vous le conseil il s’occupera de clean facilement une partie de village en plus de tanker d’éventuelles anti air.
 
-## **Héros et Equipements :**
-![Reine](img/REINE.png)
+## Héros et Equipements
+
+![Reine](https://raw.githubusercontent.com/clasharcadia/forum/main/img/REINE.png)
+
 **REINE :** La flèche géante de niveau 15 (18 pour les HDV 15) est ultra importante, à ce niveau elle détruit les défenses anti aériennes de niveau 12, si vous n'avez pas accès à ce niveau, faites-en une priorité. Le niveau 9 est l'absolu minimum, afin de détruire en une fois les souffleurs !  Niveau 75 minimum.
 
-![Prince_Gargouille](img/PRINCE_GARGOUILLE.png)
+![Prince Gargouille](https://raw.githubusercontent.com/clasharcadia/forum/main/img/PRINCE_GARGOUILLE.png)
+
 **PRINCE GARGOUILLE :** A jouer derrière les dragons, son équipement sera l'orbe sombre de niveau 15 avec le gourdin météorique de niveau 18. Ses équipements ne sont pas les plus importants. Un orbe sombre avec un niveau inférieur peut suffire, et si vous n'avez pas le gourdin météorique, faites comme moi jouez la poupée protectrice, le niveau 1 suffit pour cette équipement le temps d'augmenter d'autres équipement pour d'autres Héros. Niveau 50 minimum.
 
-![Grand_Gardien](img/GRAND_GARDIEN.png)
+![Grand Gardien](https://raw.githubusercontent.com/clasharcadia/forum/main/img/GRAND_GARDIEN.png)
 **GRAND GARDIEN :** Le Grand Gardien accompagnera la partie Dragons en duo avec le Prince. Pour ses équipements la Gemme de vie de niveau 12 couplé au Grimoire Eternel de niveau 12 (et ses 7.2s d''invulnérabilité) vous permettront d'offrir une énorme survivabilité à vos nombreux Dragons ! Investir dans ses équipements est rentable et adapté à d'autres compositions très communes ! Niveau 50 minimum.
 
-![Championne](img/CHAMPIONNE.png)
+![Championne](https://raw.githubusercontent.com/clasharcadia/forum/main/img/CHAMPIONNE.png)
 **CHAMPIONNE :** LA PIERRE ANGULAIRE de votre attaque. Coté équipements les Electro boots sont obligatoires, de niveau 1 elles suffissent à faire le travail, niveau 9 est très confortable, et un niveau 15 sera vraiment optimal en termes de stats et régénération. Je vous conseille d''investir dedans jusqu'au niveau 9 dans un premier temps ou garder au niveau 1 si vous n'avez pas encore augmenté votre second équipement, la Lance Brutale. Montez-la au plus haut niveau possible, niveau 18 vous êtes très bien cependant objectif, les 7 attaques. Bouclier de niveau élevé peut la remplacer (minimum 15). Niveau 25 minimum a priorisé son niveau 30 !!
 
-## **DEROULE DE L’ATTAQUE ET OBJECTIFS :**  Exemple des parties avec une attaque sur un HDV 15  
+## DEROULE DE L’ATTAQUE ET OBJECTIFS (Exemple des parties avec une attaque sur un HDV 15)
 *Charge Championne :*
 Objectifs de cette première partie : 
 -	Déblayer un coin de la carte 
 -	Prendre de grosses défenses adverses (catapulte, TDE, arc-X, Château de clan, Aigle, HDV, défenses Anti Air). Viser avec la championne la zone la plus dense en défense, et utiliser assez tôt la capacité de la lance brutale pour vous dégager le chemin et économiser ainsi des sorts d’invisibilité. N’oubliez pas un sort d’invisibilité dure 4s. Après un peu d’entrainement en partie normal vous allez vite réussir vos partie Championne.  Conseil : Certaines défenses à faible point de vie vous prendront 2 attaques de la Championne, pour optimiser votre attaque vous pouvez rendre invisible ces défenses après une seule attaque et compter sur l’aura des bottes pour finir le travail.
+![Partie_Championne](https://raw.githubusercontent.com/clasharcadia/forum/main/img/Partie_Championne.jpg)
 
-![Partie_Championne](img/Partie_Championne.jpg)
 *Reine :*
 Objectifs de cette partie : 
 -	Prendre le ou les souffleurs qui gêneraient votre partie Dragon. 
 -	Détruire des anti-aériens en même temps que des souffleurs si possibles. La qualité de votre flèche géante dépend du nombre de ces objectifs qu’elle aura pris. CONSEIL :  Ne soyez pas trop ambitieux sur votre flèche. Le plus important reste de détruire les souffleurs qui dérangeraient vos dragons. Louper les souffleurs car on veut essayer de prendre 2 souffleurs et 2 antis aériennes est trop risqué parfois !
 
-![Partie_Reine](img/Partie_Reine.jpg)
+![Partie_Reine](https://raw.githubusercontent.com/clasharcadia/forum/main/img/Partie_Reine.jpg)
+
+
 *Caserne :*
 Objectifs de cette partie :
 -	Nettoyer un des coins accolés à la 1ère partie
