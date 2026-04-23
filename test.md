@@ -1,7 +1,7 @@
 
 
-![Dragon](img/Dragon.png)
-# **RC Super Charge et SPAM Dragons !**
+![Dragon](https://raw.githubusercontent.com/clasharcadia/forum/main/img/Dragon.png)
+# RC Super Charge et SPAM Dragons !
 
 ![troupes](img/compo.png)
 Voici un petit guide sur une composition pour HDV 13, 14, et 15. La composition tourne autour de 4 points importants : la Championne Charge, le funnel de la caserne, la gestion de la flèche géante de la Reine, et enfin la partie dragon.
@@ -13,6 +13,7 @@ Le Super Dragon du château de clan peut être modifié mais je vous le conseil 
 ## **Héros et Equipements :**
 ![Reine](img/REINE.png)
 **REINE :** La flèche géante de niveau 15 (18 pour les HDV 15) est ultra importante, à ce niveau elle détruit les défenses anti aériennes de niveau 12, si vous n'avez pas accès à ce niveau, faites-en une priorité. Le niveau 9 est l'absolu minimum, afin de détruire en une fois les souffleurs !  Niveau 75 minimum.
+
 ![Prince_Gargouille](img/PRINCE_GARGOUILLE.png)
 **PRINCE GARGOUILLE :** A jouer derrière les dragons, son équipement sera l'orbe sombre de niveau 15 avec le gourdin météorique de niveau 18. Ses équipements ne sont pas les plus importants. Un orbe sombre avec un niveau inférieur peut suffire, et si vous n'avez pas le gourdin météorique, faites comme moi jouez la poupée protectrice, le niveau 1 suffit pour cette équipement le temps d'augmenter d'autres équipement pour d'autres Héros. Niveau 50 minimum.
 
